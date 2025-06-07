@@ -1,5 +1,2 @@
 .env
 log/*
-
-!log/slow.log
-!log/slow-report.txt
